@@ -1,0 +1,8 @@
+.vs
+/*.csproj
+/UnitySerializerBenchmarks/Library
+/UnitySerializerBenchmarks/Assembly-CSharp.csproj
+/UnitySerializerBenchmarks/Assembly-CSharp-firstpass.csproj
+/UnitySerializerBenchmarks/UnitySerializerBenchmarks.sln
+/UnitySerializerBenchmarks/Logs
+/UnitySerializerBenchmarks/obj
